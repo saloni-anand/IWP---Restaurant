@@ -1,0 +1,10 @@
+Steps to run the project:
+
+Step 1: The first step is to install XAMPP and MongoDB and configure onto the computer.
+	tgs has menu is to be added to mongodb 
+Step 2: Start Apache server and MySQL using Xampp Control Panel.
+Step 3: On the Command Prompt, go to the project folder location.
+Step 4: Run the command: "npm install" 
+Step 5: Run the command: "node main.js" to run the project.
+Step 6: Open the browser and then type in URL field: "http://localhost:3000/signup" to register the account. 
+Step 7: Then open "http://localhost:3000/login" to login to the system 
